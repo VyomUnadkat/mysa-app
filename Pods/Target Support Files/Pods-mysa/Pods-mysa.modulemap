@@ -1,0 +1,6 @@
+framework module Pods_mysa {
+  umbrella header "Pods-mysa-umbrella.h"
+
+  export *
+  module * { export * }
+}
